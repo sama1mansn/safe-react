@@ -37,8 +37,8 @@ const Routes = (): React.ReactElement => {
       <div style={{ maxWidth: '500px' }}>
         <p>
           {`
-          The current community version of Gnosis Safe homepage on Binance Smart Chain is expected to be retired around 2021/10/01
-          at 1:00 PM (UTC). Gnosis Safe team has launched the mainnet support on Binance Smart Chain (BSC) here.
+          The current community version of Gnosis Safe homepage on BNB Smart Chain is expected to be retired around 2021/10/01
+          at 1:00 PM (UTC). Gnosis Safe team has launched the mainnet support on BNB Smart Chain (BSC) here.
           We suggest all users migrate Safes from the community site to the `}
           <a href="https://bsc.gnosis-safe.io/" style={{ color: 'rgb(0, 140, 115)' }}>
             official site
