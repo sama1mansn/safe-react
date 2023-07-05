@@ -1,3 +1,4 @@
+**This repo is out of maintenance and decommissioned.**
 # Gnosis Safe Multisig
 
 The most trusted platform to store digital assets on Ethereum
